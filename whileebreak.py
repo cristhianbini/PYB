@@ -1,12 +1,12 @@
 import time
 contador = 0
 while contador < 10:
-    print('Ainda não deu!')
+    print('Ainda não deu certo!')
     contador = contador + 1
     if contador == 6:
         break
     time.sleep(1)
-print('Agora deu!')
+print('Agora deu certo!')
 
 #Fatorial de 4! = 4*3*2*1
 
