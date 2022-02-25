@@ -10,7 +10,7 @@ print('Agora deu!')
 
 #Fatorial de 4! = 4*3*2*1
 
-numero = int(input('Digite um numero: '))
+numero = int(input('Digite um numero qualquer: '))
 fatorial = numero
 contador = 1
 #fatorial = numero*(numero-1)*(numero-2)*(numero-3)
