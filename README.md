@@ -4,8 +4,11 @@
  Curso 01 - Python Básico:
 
 01 - Python para Iniciantes
+
 02 - Instalando Python 
+
 03 - Seu primeiro código Python
+
 04 - Operadores aritméticos com Python
 05 - Variáveis e tipos de dados em Python
 06 - Função input() em Python
